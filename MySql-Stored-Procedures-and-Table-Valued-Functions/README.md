@@ -1,1 +1,2 @@
-# These are the three major stored procedures and a table valued function written by me.
+# Stored procedures and table valued functions.
+
